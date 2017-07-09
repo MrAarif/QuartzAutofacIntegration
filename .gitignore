@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SampleQuartzAutofac/packages
+/SampleQuartzAutofac/SampleQuartzAutofac/bin/Debug
+/SampleQuartzAutofac/SampleQuartzAutofac/obj/Debug
